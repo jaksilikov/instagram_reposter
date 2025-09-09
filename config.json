@@ -1,0 +1,25 @@
+{
+  "_comment_username": "Логин вашего Instagram аккаунта, с которого будет выполняться репост",
+  "username": "login",
+
+  "_comment_password": "Пароль от вашего Instagram аккаунта",
+  "password": "password",
+
+  "_comment_source": "Имя аккаунта источника, с которого будут скачиваться посты",
+  "source_username": "username",
+
+  "_comment_downloads": "Папка для скачанных файлов",
+  "downloads_folder": "downloads",
+
+  "_comment_posted_file": "Файл с ID уже опубликованных постов",
+  "posted_file": "posted.txt",
+
+  "_comment_media_amount": "Количество последних постов для загрузки",
+  "media_amount": 10,
+
+  "_comment_sleep": "Пауза между публикацией постов (сек)",
+  "sleep_seconds": 10,
+
+  "_comment_log_file": "Файл для логов",
+  "log_file": "logs/reposter.log"
+}
