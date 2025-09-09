@@ -12,3 +12,4 @@
 ## Установка
 ```bash
 pip install -r requirements.txt
+"# instagram_reposter" 
